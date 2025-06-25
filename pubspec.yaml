@@ -1,4 +1,4 @@
-name: Widgets2_app
+name: widgets2_app
 description: "Manejador de estados Riverpod"
 publish_to: 'none'
 version: 0.1.0
