@@ -1,3 +1,3 @@
-# flutter_widgets_app
+# widgets2_app
 
-A new Flutter project.
+Manejador de estados Riverpod
