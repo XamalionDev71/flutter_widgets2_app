@@ -1,4 +1,4 @@
-import 'package:flutter_widgets_app/presentation/screens/screens.dart';
+import 'package:Widgets2_app/presentation/screens/screens.dart';
 import 'package:go_router/go_router.dart';
 
 //GoRouter Configuration
